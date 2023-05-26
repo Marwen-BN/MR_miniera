@@ -1,11 +1,11 @@
 # MR_miniera
 easy job you can use it to  create weapon
-#add item
+# add item
 copper
 iron
 aluminum
 trigger
 cylinder
 hammer
-#preview
+# preview
 https://youtu.be/RSGJFlIyPcU
